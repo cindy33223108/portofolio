@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Certificate Competence of Industrial Automation",
+        "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
+        "id": "78411.31190.0007038 2025",
+        "skills": "PLC Programming & Industrial Automation"
+    },
+    {
+        "title": "Internship Certificate",
+        "issuer": "Ruang Industri Indonesia",
+        "id": "MAG/EK/027/001/2026",
+        "skills": "PLC, Python, VS Code"
+    },
+    {
+        "title": "Pelatihan Desain PCB & Pembuatan PCB untuk Industri",
+        "issuer": "INDOMAKER",
+        "id": "IIM/ESRT/PCBT/2024/XI/014",
+        "skills": "PCB Design & Manufacturing"
+    },
+    {
+        "title": "Certificate PersCert TÜV Pneumatic System Maintenance",
+        "issuer": "TÜV Rheinland Group",
+        "id": "62372/21/1139",
+        "skills": "Pneumatics, Electro-pneumatics"
+    },
+    {
+        "title": "Field Work Practice Certificate",
+        "issuer": "DTECH-ENGINEERING",
+        "id": "13.265/DTECH/XII/2021",
+        "skills": "Eagle PCB, Arduino IDE"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Symmetrical Inverter",
+        "image": "images/project1-inventer.jpg",
+        "year": "2025",
+        "role": "Electronics Engineer",
+        "description": "Designed and developed an advanced electronic symmetrical inverter capable of converting AC current into a stable 12V DC output. The project focused on maximizing energy efficiency and ensuring high thermal stability, making it highly suitable for demanding power electronics applications and continuous-duty industrial use cases.",
+        "link": "#"
+    },
+    {
+        "title": "Automated Smart Trash Can",
+        "image": "images/project2-trash.jpg",
+        "year": "2025",
+        "role": "IoT Developer",
+        "description": "Engineered a touchless smart trash can utilizing an RWL1061 ultrasonic sensor to automatically detect human presence and open the lid. This IoT-driven solution significantly improves hygiene in public and personal spaces by minimizing physical contact. The system includes optimized power management for extended battery life.",
+        "link": "#"
+    },
+    {
+        "title": "Toll Gate E-Money Prototype",
+        "image": "images/project3-tollgate.jpg",
+        "year": "2025",
+        "role": "Embedded Systems",
+        "description": "Created a fully functional toll gate prototype featuring RFID integration for seamless e-money balance checking and top-up operations. Built around the Arduino Uno microcontroller, the system supports secure user inputs via a matrix keypad up to 255K IDR, and provides real-time transactional feedback through a clear LCD display interface.",
+        "link": "#"
+    },
+    {
+        "title": "Encoder Motor Control System",
+        "image": "images/project3.png",
+        "year": "2025",
+        "role": "Control Systems",
+        "description": "Developed a high-precision closed-loop DC motor control system utilizing a rotary encoder and an L293D Motor Driver, driven by an Arduino Uno. The control algorithms were extensively simulated and validated using LabVIEW and Proteus before physical implementation, ensuring accurate RPM regulation and position control.",
+        "link": "#"
+    },
+    {
+        "title": "Toaster Analog Temperature Control System",
+        "image": "images/project5-toaster.jpg",
+        "year": "2024",
+        "role": "Analog Electronics",
+        "description": "Prototyped a robust analog temperature control system designed specifically for commercial toasters. The circuit provides high thermal precision and rapid response times to maintain consistent heating profiles, demonstrating a deep understanding of analog feedback loops, sensor calibration, and thermal dynamics in consumer appliances.",
+        "link": "#"
+    },
+    {
+        "title": "Arduino-Based Safe Deposit Box",
+        "image": "images/project2.png",
+        "year": "2024",
+        "role": "Security Systems",
+        "description": "Designed and programmed a digital safe deposit box secured by a custom PIN authentication system using the ATmega 328P (Arduino Uno). The project serves as an affordable, highly secure, and practical alternative to conventional physical locks, featuring EEPROM integration to securely store user credentials even during power loss.",
+        "link": "#"
+    },
+    {
+        "title": "Chicken Egg Incubator Simulation System",
+        "image": "images/project7-incubator.jpg",
+        "year": "2024",
+        "role": "Agriculture Tech",
+        "description": "Architected an automated environmental control system for a chicken egg incubator using an Arduino Uno. The system precisely regulates internal temperature and humidity levels using responsive sensors and actuators, optimizing the incubation environment to drastically increase the overall hatching success rate for agricultural applications.",
+        "link": "#"
+    },
+    {
+        "title": "Remote-Controlled Cargo Robot (RCCR)",
+        "image": "images/project1.png",
+        "year": "2025",
+        "role": "Robotics Engineer",
+        "description": "Built and programmed a remote-controlled cargo transport robot powered by a Raspberry Pi. Designed for modern logistics and industrial automation, the RCCR features real-time wireless communication, enabling efficient and safe goods transportation across warehouse floors, thereby reducing manual labor and streamlining supply chains.",
+        "link": "#"
+    }
+]
